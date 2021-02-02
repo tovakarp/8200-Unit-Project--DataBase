@@ -14,8 +14,8 @@ This very own DB syntax VS. MySQL syntax
 * Chevi Glazer
 
 ## Libraries/Technologies Used
-* python 3.8
-* pytest 
+* Python 3.8
+* Pytest 
 
 ## Special Thanks
 * Ministry of Defence (8200 unit) mentors
