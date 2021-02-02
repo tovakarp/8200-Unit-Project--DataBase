@@ -1,4 +1,5 @@
-# Database Project ##### July 2020
+##### July 2020
+# Database Project 
 
 In this project we implemented a relational DataBase infrastructure.
 
