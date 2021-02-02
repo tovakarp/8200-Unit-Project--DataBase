@@ -1,4 +1,5 @@
 # Database Project
+### July 2020
 In this project we implemented a relational DataBase infrastructure.
 
 The DB supports create and delete tables.
